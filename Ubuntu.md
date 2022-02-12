@@ -1,4 +1,4 @@
-On server Ubuntu
+# On server Ubuntu
 - Go to hosts and change to IP a server name
 ```
 nano /etc/hosts
